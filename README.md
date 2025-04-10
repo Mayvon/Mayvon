@@ -1,4 +1,4 @@
-# 👨‍💻 Mayvon Alves
+# Mayvon Alves
 
 **`UX end Service Designer`**
 
