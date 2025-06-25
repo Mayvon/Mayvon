@@ -2,8 +2,8 @@
 
 **`UX end Service Designer`**
 
-Me chamo Mayvon Alves, de Recife-PE 🏖️. <br>
-Sou bacharel em Design pela UFPE e pós-graduando em Engenharia de UX pela PUC-MG. <br>
+Olá, sou Mayvon Alves, de Recife-PE 🏖️. <br>
+Bacharel em Design pela UFPE e pós-graduando em UX Engineering pela PUC-MG. <br>
 Aqui, compartilho um pouco do meu aprendizado, projetos e insights. <br>
 
 
